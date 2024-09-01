@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://alatepow.github.io/sitemap.html.gz
+Sitemap: https://alatepow.github.io/app/sitemap.html.gz
+Sitemap: https://alatepow.github.io/assets/sitemap.html.gz
+Sitemap: https://alatepow.github.io/css/sitemap.html.gz
+Sitemap: https://alatepow.github.io/includes/sitemap.html.gz
+Sitemap: https://alatepow.github.io/item/sitemap.html.gz
+Sitemap: https://alatepow.github.io/src/sitemap.html.gz
